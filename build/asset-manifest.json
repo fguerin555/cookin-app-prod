@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fguerin555/cooking-app/static/css/main.be7c71e7.css",
+    "main.js": "/fguerin555/cooking-app/static/js/main.0e026901.js",
+    "index.html": "/fguerin555/cooking-app/index.html",
+    "main.be7c71e7.css.map": "/fguerin555/cooking-app/static/css/main.be7c71e7.css.map",
+    "main.0e026901.js.map": "/fguerin555/cooking-app/static/js/main.0e026901.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be7c71e7.css",
+    "static/js/main.0e026901.js"
+  ]
+}
